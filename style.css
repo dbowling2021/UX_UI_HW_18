@@ -1,0 +1,82 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.838);
+    align-items: flex-end;
+    display: flex;
+    min-width: 1420px;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+}
+.header-text{
+    color: white;
+    font-family: sans-serif;
+    align-self: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    height: 24px;
+    margin-bottom: 0.5px;
+    margin-left: 555px;
+    width: 541px;
+}
+.logo1{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: var(--font-family-kaisei_decol);
+    font-size: 64px;
+    left: 753px;
+    position: absolute;
+    text-align: center;
+    top: 349px;
+    z-index: 1;
+}
+h2{
+    color: white;
+    font-family: var(--font-family-kaisei_decol);
+    font-size: 44px;
+    left: 944px;
+    position: absolute;
+    text-align: center;
+    top: 493px;
+    z-index: 1;
+}
+h3{
+    color: white;
+    font-family: Lato;
+    font-size: 30px;
+    left: 970px;
+    position: absolute;
+    text-align: center;
+    top: 552px;
+    z-index: 1;   
+}
+.button {
+    height: 43px;
+    margin-left: 625px;
+    margin-top: 40px;
+    width: 160px;
+    z-index: 1;
+  }
+h4 {
+    font-family: sans-serif;
+    height: 64px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+footer{
+    background-color: black;
+    align-items: center;
+}
+.inline-block{
+    color: white;
+    font-family: sans-serif;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
